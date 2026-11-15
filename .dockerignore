@@ -1,0 +1,10 @@
+.git
+.vs
+.vscode
+.idea
+.env
+**/bin
+**/obj
+client/node_modules
+client/dist
+client/.angular

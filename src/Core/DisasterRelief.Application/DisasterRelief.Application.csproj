@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>DisasterRelief.Application</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DisasterRelief.Domain\DisasterRelief.Domain.csproj" />
+  </ItemGroup>
+</Project>
